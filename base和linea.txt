@@ -1,0 +1,22 @@
+一；Base（cb）
+1；跨链桥；bridge.base.org/deposit 或者https://rinkeby.orbiter.finance
+2；领取小猫玩游戏；https://catattacknft.vercel.app/
+3；去中心化交易所；https://fi.woo.org/
+4；跨回以太测试网
+
+二；Linea（小狐狸母公司）
+1；跨链桥；https://goerli.hop.exchange/#/send?token=ETH&destNetwork=linea&sourceNetwork=ethereum
+2，去中心化交易所；https://swap.goerli.linea.build/#/swap
+
+
+
+测试币 Goerli ETH，领取入口集合
+goerlifaucet.com
+faucets.chain.link
+faucet.polygon.technology
+app.mycrypto.com/faucet
+faucet.triangleplatform.com/ethereum/goerli
+zk.link/app/faucet/l1
+faucet.paradigm.xyz
+goerli-faucet.pk910.de
+base和linea测试网交互；链接: https://pan.baidu.com/s/1JwBuGZc_CBCz_--Z6YP4SA 提取码: j2b3 复制这段内容后打开百度网盘手机App
